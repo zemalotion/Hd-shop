@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="th">
 <head>
 <meta charset="UTF-8">
@@ -82,7 +82,7 @@ const CONFIG = {
   shopName: "🌾 NW SHOP",
   heroTitle: "ขายของHay day หาให้ได้ทุกอย่างที่หาได้",
   heroSub: "เลือกสินค้า → กดสั่งซื้อ → รับเลขออเดอร์ → ส่งให้แอดมินทาง Facebook",
-  Facebook: "",  Wisitsak Tupthaworn        // Facebook ของร้าน
+  Facebook: "",  WisitsakTupthaworn        // Facebook ของร้าน
   adminPin: "230452",           // รหัสเข้าหน้าแอดมิน (เปลี่ยนด้วย!)
   currency: "฿",
   orderPrefix: "HD",
