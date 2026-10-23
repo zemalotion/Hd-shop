@@ -79,11 +79,11 @@ footer{text-align:center;color:var(--m);font-size:12px;padding:20px}
    ✏️ แก้ไขตรงนี้ได้เลย (ชื่อร้าน / LINE / รหัสแอดมิน / สินค้าเริ่มต้น)
    ============================================================ */
 const CONFIG = {
-  shopName: "🌾 Hay Day Shop",
-  heroTitle: "ร้านขายของ Hay Day ครบทุกอย่าง",
-  heroSub: "เลือกสินค้า → กดสั่งซื้อ → รับเลขออเดอร์ → ส่งให้แอดมินทาง LINE",
-  line: "@yourshop",          // LINE ID ของร้าน
-  adminPin: "1234",           // รหัสเข้าหน้าแอดมิน (เปลี่ยนด้วย!)
+  shopName: "🌾 NW SHOP",
+  heroTitle: "ขายของHay day หาให้ได้ทุกอย่างที่หาได้",
+  heroSub: "เลือกสินค้า → กดสั่งซื้อ → รับเลขออเดอร์ → ส่งให้แอดมินทาง Facebook",
+  Facebook: "",  Wisitsak Tupthaworn        // Facebook ของร้าน
+  adminPin: "230452",           // รหัสเข้าหน้าแอดมิน (เปลี่ยนด้วย!)
   currency: "฿",
   orderPrefix: "HD",
   statuses: ["รอชำระเงิน","ชำระแล้ว","กำลังจัดส่ง","สำเร็จ","ยกเลิก"]
